@@ -51,6 +51,10 @@
 
 <hr>
 
+<h2>🚀 Try It Out</h2>
+<p>Check out the live version of this project <a href="your-deployed-link-here" target="_blank"><strong>here</strong></a>! 🚀</p>
+<hr/>
+
 <h2>🌍 Live Demo & Deployment</h2>
 <p>
     Want to see it in action? You can deploy it in **Streamlit Cloud** or any Python environment.

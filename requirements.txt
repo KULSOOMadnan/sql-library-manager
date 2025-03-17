@@ -3,3 +3,4 @@ mysql-connector-python
 pandas
 plotly
 requests
+streamlit_extras
